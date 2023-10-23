@@ -1,12 +1,16 @@
 # Chat AI : an inbuilt Browser for Bard AI and ChatGPT.
 
 
+## Live Demo 🚀
+
+Experience the Chat AI in action on Google Play: [https://play.google.com/store/apps/details?id=com.practice.ChatAI](https://play.google.com/store/apps/details?id=com.practice.ChatAI)
+
+
 ## 📸 Screenshots
 
-| On-Boarding | Bard AI | ChatGPT |
-|--|--|--|
-|![Screenshot_2023-07-13-22-16-26-628_com practice ChatAI](https://github.com/jemish-169/Chat-AI/assets/95186825/dac744d3-03a8-4253-8b54-1a144cbb222e)|![Screenshot_2023-07-13-22-15-29-804_com practice ChatAI](https://github.com/jemish-169/Chat-AI/assets/95186825/ac8ae084-2479-4c7d-b6d0-cf48fd9c8c24)|![Screenshot_2023-07-13-22-15-48-508_com practice ChatAI](https://github.com/jemish-169/Chat-AI/assets/95186825/79a7575b-7ff8-4674-91a4-3729055c93bc)|
-
+| On-Boarding | Bard AI |
+|--|--|
+|![Screenshot_2023-07-13-22-16-26-628_com practice ChatAI](https://github.com/jemish-169/Chat-AI/assets/95186825/dac744d3-03a8-4253-8b54-1a144cbb222e)|![Screenshot_2023-07-13-22-15-29-804_com practice ChatAI](https://github.com/jemish-169/Chat-AI/assets/95186825/ac8ae084-2479-4c7d-b6d0-cf48fd9c8c24)|
 
 
 

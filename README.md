@@ -1,11 +1,5 @@
 # Chat AI : an inbuilt Browser for Bard AI and ChatGPT.
 
-
-## Live Demo 🚀
-
-Experience the Chat AI in action on Google Play: [https://play.google.com/store/apps/details?id=com.practice.ChatAI](https://play.google.com/store/apps/details?id=com.practice.ChatAI)
-
-
 ## 📸 Screenshots
 
 | On-Boarding | Bard AI | FAQ |
